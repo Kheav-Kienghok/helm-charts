@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  apache:
+  - apiVersion: v2
+    appVersion: "2.4"
+    created: "2026-11-24T18:26:48.550679088+07:00"
+    description: Apache HTTP Server (httpd) Helm chart with a custom index page
+    digest: 1c25d461910017193f395b0792a8e05b128cbb96cc914258f63036be849c563f
+    name: apache
+    type: application
+    urls:
+    - apache-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-24T18:26:48.550165934+07:00"
